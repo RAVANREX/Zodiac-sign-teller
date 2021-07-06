@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">DatePicker</string>
+    <string name="app_name">Your-Zodic(RAVANREX)</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="date_label_set">Press the button to set YOUR birth date and press next</string>

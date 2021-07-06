@@ -25,16 +25,17 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:textColor="#aa53c9"
         android:id="@+id/sign_TextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:layout_marginBottom="70dp"
         android:fontFamily="casual"
         android:gravity="center"
         android:text="sdnjkshgsjgjsgjsbgshdghsdioghswiogSWIOGjsoGosgjoSNGkoSNgosngiosniognsGSKO:GnsKO:GNko;s"
         android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#aa53c9"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
